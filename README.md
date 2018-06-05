@@ -1,3 +1,3 @@
 # curriculum-vitae
-![curriculum vitae-1](https://user-images.githubusercontent.com/27078712/40948190-25564a62-6867-11e8-9a9e-09deb263bcf3.jpg)
-![curriculum vitae-2](https://user-images.githubusercontent.com/27078712/40948194-289dd9f6-6867-11e8-9f36-59b39c9e07c7.jpg)
+![curriculum vitae-1](https://user-images.githubusercontent.com/27078712/40948443-cbfee60c-6868-11e8-8d15-d583177b740f.jpg)
+![curriculum vitae-2](https://user-images.githubusercontent.com/27078712/40948446-cfbaf326-6868-11e8-92aa-1e3bdf4d5f0e.jpg)
