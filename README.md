@@ -1,4 +1,6 @@
 # curriculum-vitae
-![curriculum vitae-1](https://user-images.githubusercontent.com/27078712/41159989-97dfad52-6b2e-11e8-9501-24896beec3d7.jpg)
-![curriculum vitae-2](https://user-images.githubusercontent.com/27078712/41159990-980c5226-6b2e-11e8-87b9-35cf90230a5d.jpg)
+![curriculum vitae-1](https://user-images.githubusercontent.com/27078712/41173514-839180a4-6b57-11e8-8b7d-9d1c1b6df8df.jpg)
+![curriculum vitae-2](https://user-images.githubusercontent.com/27078712/41173515-83bb0e4c-6b57-11e8-9a78-57cdfc37fc3e.jpg)
+
+
 [Download this CV](https://github.com/itsmecevi/curriculum-vitae/blob/master/Curriculum%20Vitae.pdf)
